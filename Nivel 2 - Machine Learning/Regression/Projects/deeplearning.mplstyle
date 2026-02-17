@@ -6,7 +6,7 @@ axes.labelsize : 14
 axes.edgecolor : #4f4f4f
 axes.labelcolor : #4f4f4f
 axes.axisbelow : True
-axes.prop_cycle : cycler('color', ['0072B2', '009E73', 'D55E00', 'CC79A7', 'F0E442', '56B4E9'])
+axes.prop_cycle : cycler('color', ['#0072B2', '#009E73', '#D55E00', '#CC79A7', '#F0E442', '#56B4E9'])
 
 # LINES
 lines.linewidth : 2
