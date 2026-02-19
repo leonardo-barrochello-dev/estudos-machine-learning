@@ -1,0 +1,36 @@
+# Matplotlib style for deeplearning.ai courses
+
+# AXES
+axes.titlesize : 16
+axes.labelsize : 14
+axes.edgecolor : #4f4f4f
+axes.labelcolor : #4f4f4f
+axes.axisbelow : True
+axes.prop_cycle : cycler('color', ['#0072B2', '#009E73', '#D55E00', '#CC79A7', '#F0E442', '#56B4E9'])
+
+# LINES
+lines.linewidth : 2
+lines.markersize : 6
+
+# TICKS
+xtick.labelsize : 12
+xtick.color : #4f4f4f
+ytick.labelsize : 12
+ytick.color : #4f4f4f
+
+# FIGURE
+figure.figsize : 8, 5
+figure.dpi : 100
+
+# FONT
+font.family : sans-serif
+font.sans-serif : Arial, Helvetica, DejaVu Sans, Bitstream Vera Sans, sans-serif
+
+# LEGEND
+legend.fontsize : 12
+legend.frameon : True
+legend.loc : best
+
+# GRID
+grid.alpha : 0.3
+grid.linestyle : --
